@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "473b5b17fa788787",
+    "type": "split",
+    "children": [
+      {
+        "id": "99cc0588d879aaaa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e1c239eee9bcedb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c3ed32184c94cbd5",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac884a6fec12d254",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb11a5b8bdd0eb51",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7173753bed4f097e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0bde49e08c4866fe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "204f7581bab15533",
+    "type": "split",
+    "children": [
+      {
+        "id": "81643f5d7c449c33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6327fd26fff5f494",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "e7049af29fdca6eb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "4d58530fbc5be8b2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "79689e9a7772ee45",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ecab99072d154612",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian42-brat:BRAT": false,
+      "periodic-notes:Open today's daily note": false
+    }
+  },
+  "active": "6e1c239eee9bcedb",
+  "lastOpenFiles": [
+    "14 - Random/README.md",
+    "14 - Random",
+    "13 - Toolbox/README.md",
+    "13 - Toolbox",
+    "12 - Projects/Forest Fire/README.md",
+    "12 - Projects/Leaves/README.md",
+    "12 - Projects/Meteors/README.md",
+    "12 - Projects/Forest Fire",
+    "12 - Projects/Leaves",
+    "12 - Projects/Meteors",
+    "12 - Projects",
+    "11 - Parents/Leaves/README.md",
+    "11 - Parents/Meteors/README.md",
+    "11 - Parents/Leaves",
+    "11 - Parents/Meteors",
+    "11 - Parents",
+    "10 - Recipes/README.md",
+    "10 - Recipes",
+    "09 - Knowledge/README.md",
+    "08 - Pets/README.md",
+    "07 - Notes/Leaves/README.md",
+    "07 - Notes/Meteors/README.md",
+    "06 - Media/Tabletops/README.md",
+    "06 - Media/Music/README.md",
+    "06 - Media/Shows/README.md",
+    "06 - Media/Movies/README.md",
+    "06 - Media/Books/README.md",
+    "06 - Media/Games/README.md",
+    "05 - Yearly/Forest Fire/README.md",
+    "05 - Yearly/Leaves/README.md",
+    "05 - Yearly/Meteors/README.md",
+    "04 - Monthly/Forest Fire/README.md",
+    "04 - Monthly/Leaves/README.md",
+    "03 - Daily/Forest Fire/README.md",
+    "03 - Daily/Leaves/README.md",
+    "04 - Monthly/Meteors/README.md"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "pluginList": [
+    "liamcain/obsidian-periodic-notes"
+  ],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "liamcain/obsidian-periodic-notes",
+      "version": "1.0.0-beta.3"
+    }
+  ],
+  "themesList": [],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": true,
+  "enableAfterInstall": true,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": false,
+  "notificationsEnabled": true,
+  "globalTokenName": "",
+  "personalAccessToken": "",
+  "selectLatestPluginVersionByDefault": false,
+  "allowIncompatiblePlugins": false
+}
