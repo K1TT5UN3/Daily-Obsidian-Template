@@ -216,13 +216,16 @@
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-media-db-plugin:Add new Media DB entry": false
+      "obsidian-media-db-plugin:Add new Media DB entry": false,
+      "media-extended:Open external media": false
     }
   },
-  "active": "cb11a5b8bdd0eb51",
+  "active": "cd64bbfc2fa6d594",
   "lastOpenFiles": [
-    "2026-03-16.md",
+    "99 - Assets/Media/README.md",
     "README.md",
+    "99 - Assets/Media",
+    "2026-03-16.md",
     "Media DB/games/HELLDIVERS™ 2 (2024).md",
     "2024-01-02.md",
     "Media DB/games",
@@ -244,7 +247,6 @@
     "13 - Legal",
     "12 - Pets/README.md",
     "12 - Pets",
-    "11 - Medical",
     "10 - Media/Tabletops/README.md",
     "10 - Media/Shows/README.md",
     "10 - Media/Music/README.md",
@@ -255,7 +257,6 @@
     "08 - Knowledge/README.md",
     "Random/README.md",
     "Parents/Meteors/README.md",
-    "Parents/Leaves/README.md",
-    "Recipes/README.md"
+    "Parents/Leaves/README.md"
   ]
 }

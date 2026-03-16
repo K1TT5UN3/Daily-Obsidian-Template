@@ -17,7 +17,12 @@ Plugins used:
 - [Sheets Extended](https://github.com/NicoNekoru/obsidan-advanced-table-xt) - Another plugin to extend functionality of markdown tables. Nice to have but might be removed due to compatibility issues with  Advanced tables.
 - [Style Settings](https://github.com/obsidian-community/obsidian-style-settings) - Allows for easy in program theme and style editing.
 - [Templater](https://github.com/SilentVoid13/Templater) - Very powerful template tool with script running capabilities. Vault relies on it to automate creation of many notes throughout entire vault.
-- [Text Extractor] - Plugin that allows extraction of text from obsidian notes, PDF files and other. Is here as an extension of Omnisearch.
+- [Text Extractor](https://github.com/scambier/obsidian-text-extractor) - Plugin that allows extraction of text from obsidian notes, PDF files and other. Is here as an extension of Omnisearch.
+- [Heading Shifter](https://github.com/k4a-l/obsidian-heading-shifter) - Simple plugin that allows to quickly change size of heading and everything under it.
+- [Media Extended](https://github.com/aidenlx/media-extended) - Allows for more media support inside of obsidian vault.
+- [Natural Language Dates](https://github.com/argenos/nldates-obsidian) - Simple plugin that parses dates into more human readable format i.e tomorrow, today, next week.
+- [Tag Wrangler](https://github.com/pjeby/tag-wrangler) - Simple tool for mass edition and help with working with tags.
+- [Timestamp Notes](https://github.com/juliang22/ObsidianTimestampNotes) - Plugin that allows you to timestamp and note alongside a video.
 
 Screenshots:
 - 
@@ -31,3 +36,7 @@ TODO:
 - [ ] Look for pretty theme or create one as default.
 - [ ] Configure Pretty Properties for nice look with chosen theme.
 - [ ] Research Text Extractor for use of AI and remove if needed.
+- [ ] Edit all keybinds to own liking.
+- [ ] Add keybind guide to github repo.
+- [ ] Edit more of plugin settings.
+- [ ] Look at Zotero and if applicable look for sync with obsidian.
