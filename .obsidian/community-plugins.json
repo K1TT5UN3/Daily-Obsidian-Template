@@ -1,5 +1,17 @@
 [
   "obsidian42-brat",
   "periodic-notes",
-  "calendar"
+  "calendar",
+  "notebook-navigator",
+  "templater-obsidian",
+  "dataview",
+  "image-converter",
+  "table-editor-obsidian",
+  "sheets",
+  "obsidian-style-settings",
+  "pretty-properties",
+  "omnisearch",
+  "obsidian-media-db-plugin",
+  "featured-image",
+  "text-extractor"
 ]
