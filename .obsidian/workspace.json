@@ -11,10 +11,14 @@
             "id": "6e1c239eee9bcedb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -150,12 +156,23 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of README"
+            }
+          },
+          {
+            "id": "3a878b578ca4187e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -175,46 +192,47 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian42-brat:BRAT": false,
-      "periodic-notes:Open today's daily note": false
+      "periodic-notes:Open today's daily note": false,
+      "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "6e1c239eee9bcedb",
+  "active": "cb11a5b8bdd0eb51",
   "lastOpenFiles": [
-    "14 - Random/README.md",
-    "14 - Random",
-    "13 - Toolbox/README.md",
-    "13 - Toolbox",
-    "12 - Projects/Forest Fire/README.md",
-    "12 - Projects/Leaves/README.md",
-    "12 - Projects/Meteors/README.md",
-    "12 - Projects/Forest Fire",
-    "12 - Projects/Leaves",
-    "12 - Projects/Meteors",
-    "12 - Projects",
-    "11 - Parents/Leaves/README.md",
-    "11 - Parents/Meteors/README.md",
-    "11 - Parents/Leaves",
-    "11 - Parents/Meteors",
-    "11 - Parents",
-    "10 - Recipes/README.md",
-    "10 - Recipes",
-    "09 - Knowledge/README.md",
-    "08 - Pets/README.md",
-    "07 - Notes/Leaves/README.md",
-    "07 - Notes/Meteors/README.md",
-    "06 - Media/Tabletops/README.md",
-    "06 - Media/Music/README.md",
-    "06 - Media/Shows/README.md",
-    "06 - Media/Movies/README.md",
-    "06 - Media/Books/README.md",
-    "06 - Media/Games/README.md",
-    "05 - Yearly/Forest Fire/README.md",
-    "05 - Yearly/Leaves/README.md",
-    "05 - Yearly/Meteors/README.md",
-    "04 - Monthly/Forest Fire/README.md",
-    "04 - Monthly/Leaves/README.md",
-    "03 - Daily/Forest Fire/README.md",
-    "03 - Daily/Leaves/README.md",
-    "04 - Monthly/Meteors/README.md"
+    "15 - Random/README.md",
+    "15 - Random",
+    "14 - Parents/Meteors/README.md",
+    "14 - Parents/Leaves/README.md",
+    "14 - Parents/Meteors",
+    "14 - Parents/Leaves",
+    "14 - Parents",
+    "13 - Legal/README.md",
+    "13 - Legal",
+    "12 - Pets/README.md",
+    "12 - Pets",
+    "11 - Medical/README.md",
+    "11 - Medical",
+    "10 - Media/Tabletops/README.md",
+    "10 - Media/Shows/README.md",
+    "10 - Media/Music/README.md",
+    "10 - Media/Games/README.md",
+    "10 - Media/Movies/README.md",
+    "10 - Media/Books/README.md",
+    "10 - Media/Tabletops",
+    "10 - Media/Shows",
+    "10 - Media/Music",
+    "09 - Recipes/README.md",
+    "08 - Knowledge/README.md",
+    "Random/README.md",
+    "Parents/Meteors/README.md",
+    "Parents/Leaves/README.md",
+    "Recipes/README.md",
+    "Knowledge/README.md",
+    "Pets/README.md",
+    "Media/Tabletops/README.md",
+    "Media/Shows/README.md",
+    "Media/Music/README.md",
+    "Media/Movies/README.md",
+    "Media/Games/README.md",
+    "Media/Books/README.md"
   ]
 }
