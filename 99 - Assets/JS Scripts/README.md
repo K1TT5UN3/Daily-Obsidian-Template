@@ -1,0 +1,1 @@
+This folder contains any JavaScript scripts needed and used by plugins to aid with use of this vault.

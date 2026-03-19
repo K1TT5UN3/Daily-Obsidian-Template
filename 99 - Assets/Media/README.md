@@ -1,0 +1,1 @@
+This folder contains any video or audio media, mostly downloaded by Media Extended.
