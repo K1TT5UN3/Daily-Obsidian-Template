@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 - Media/9 - Creators/README.md",
+                "file": "99 - Assets/Templates/Media.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Media"
             }
           }
         ]
@@ -222,8 +222,15 @@
   },
   "active": "cd64bbfc2fa6d594",
   "lastOpenFiles": [
-    "10 - Media/7 - Manga/README.md",
+    "99 - Assets/Templates/Untitled.md",
+    "99 - Assets/Templates/Media.md",
+    "99 - Assets/Templates/Untitled",
+    "99 - Assets/Templates/README.md",
+    "Untitled.md",
+    "10 - Media/1 - Movies/Untitled.md",
+    "10 - Media/1 - Movies/test.md",
     "10 - Media/9 - Creators/README.md",
+    "10 - Media/7 - Manga/README.md",
     "10 - Media/6 - Comics/README.md",
     "10 - Media/5 - Books/README.md",
     "README.md",
@@ -249,14 +256,6 @@
     "15 - Random",
     "14 - Parents/Meteors/README.md",
     "14 - Parents/Leaves/README.md",
-    "14 - Parents/Meteors",
-    "14 - Parents/Leaves",
-    "13 - Legal/README.md",
-    "12 - Pets/README.md",
-    "10 - Media/8 - Tabletops/README.md",
-    "10 - Media/2 - Shows/README.md",
-    "10 - Media/3 - Music/README.md",
-    "10 - Media/4 - Games/README.md",
-    "10 - Media/1 - Movies/README.md"
+    "14 - Parents/Meteors"
   ]
 }
