@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "10 - Media/9 - Creators/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -222,8 +222,17 @@
   },
   "active": "cd64bbfc2fa6d594",
   "lastOpenFiles": [
-    "99 - Assets/Media/README.md",
+    "10 - Media/7 - Manga/README.md",
+    "10 - Media/9 - Creators/README.md",
+    "10 - Media/6 - Comics/README.md",
+    "10 - Media/5 - Books/README.md",
     "README.md",
+    "10 - Media/7 - Manga",
+    "10 - Media/6 - Comics",
+    "10 - Media/9 - Creators",
+    "Hideaki Anno.md",
+    "10 - Media/Music/CHASER (by femtanyl - 2023).md",
+    "99 - Assets/Media/README.md",
     "99 - Assets/Media",
     "2026-03-16.md",
     "Media DB/games/HELLDIVERS™ 2 (2024).md",
@@ -242,21 +251,12 @@
     "14 - Parents/Leaves/README.md",
     "14 - Parents/Meteors",
     "14 - Parents/Leaves",
-    "14 - Parents",
     "13 - Legal/README.md",
-    "13 - Legal",
     "12 - Pets/README.md",
-    "12 - Pets",
-    "10 - Media/Tabletops/README.md",
-    "10 - Media/Shows/README.md",
-    "10 - Media/Music/README.md",
-    "10 - Media/Games/README.md",
-    "10 - Media/Movies/README.md",
-    "10 - Media/Books/README.md",
-    "09 - Recipes/README.md",
-    "08 - Knowledge/README.md",
-    "Random/README.md",
-    "Parents/Meteors/README.md",
-    "Parents/Leaves/README.md"
+    "10 - Media/8 - Tabletops/README.md",
+    "10 - Media/2 - Shows/README.md",
+    "10 - Media/3 - Music/README.md",
+    "10 - Media/4 - Games/README.md",
+    "10 - Media/1 - Movies/README.md"
   ]
 }
