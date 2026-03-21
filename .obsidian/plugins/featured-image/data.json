@@ -1,5 +1,6 @@
 {
   "showNotificationsOnUpdate": true,
+  "runAutomaticallyWhileEditing": true,
   "frontmatterProperty": "feature",
   "thumbnailsFolder": "/99 - Assets/Images/Thumbnails",
   "excludedFolders": [],
@@ -21,5 +22,5 @@
   "downloadYoutubeThumbnails": true,
   "debugMode": false,
   "dryRun": false,
-  "lastShownVersion": "1.2.4"
+  "lastShownVersion": "1.2.6"
 }

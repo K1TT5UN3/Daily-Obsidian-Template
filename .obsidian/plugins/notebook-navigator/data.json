@@ -263,6 +263,7 @@
   "calendarConfirmBeforeCreate": true,
   "calendarLocale": "system-default",
   "calendarWeekendDays": "sat-sun",
+  "calendarMonthHeadingFormat": "full",
   "calendarHighlightToday": true,
   "calendarShowFeatureImage": true,
   "calendarMonthHighlights": {},
@@ -482,7 +483,7 @@
     "#404040",
     "#404040"
   ],
-  "lastShownVersion": "2.5.1",
+  "lastShownVersion": "2.5.2",
   "rootFolderOrder": [],
   "rootTagOrder": [],
   "rootPropertyOrder": []

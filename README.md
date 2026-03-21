@@ -9,7 +9,6 @@ Plugins used:
 - [Calendar](https://github.com/liamcain/obsidian-calendar-plugin) - Simple calendar that works with Periodic notes. It might get removed later since it's only here for simple calendar to the side and not for any functionality so far.
 - [Dataview](https://github.com/blacksmithgu/obsidian-dataview) - Very powerful data query tool. It have many uses but so far there is no clear objective for it. Added due to how much truly you are able to do with it.
 - [Featured Image](https://github.com/johansan/obsidian-featured-image) - Plugin to display first image in the note. Purely cosmetic and might be removed in further theme editing.
-- [MediaDB](https://github.com/mProjectsCode/obsidian-media-db-plugin) - Adds feature to download metadata and information about overall media. Here it's mostly to use with Media folder for easy copying/scraping information about media for further review, documentation and such.
 - [Notebook Navigator](https://github.com/johansan/notebook-navigator) - Plugin that changes how you interact with your vault. Changes overall UI and gives more tag and such search capabilities. Is central and intended default way to interact with this planner.
 - [Omnisearch](https://github.com/scambier/obsidian-omnisearch) - Plugin to search everything in the vault. Mostly QoL plugin.
 - [Periodic Notes](https://github.com/liamcain/obsidian-periodic-notes) - Plugin for easy daily, weekly, monthly or yearly note creation. WARNING: Beta version is used due to need of calendar change feature for multiple people. Watch out for any bugs.
