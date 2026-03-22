@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "99 - Assets/Templates/Media.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Media"
             }
           }
         ]
@@ -222,9 +222,11 @@
   },
   "active": "cd64bbfc2fa6d594",
   "lastOpenFiles": [
-    "99 - Assets/Templates/test.md",
+    "99 - Assets/Templates/Daily note.md",
+    "99 - Assets/Templates/Untitled.md",
     "99 - Assets/Templates/Media.md",
     "README.md",
+    "99 - Assets/Templates/test.md",
     "10 - Media/2 - Shows/Untitled.md",
     "10 - Media/1 - Movies/Untitled.md",
     "10 - Media/5 - Books/README.md",
@@ -255,7 +257,6 @@
     "2026-03-16.md",
     "2024-01-02.md",
     "BRAT.md",
-    "99 - Assets/JS Scripts/README.md",
     "99 - Assets/JS Scripts"
   ]
 }
