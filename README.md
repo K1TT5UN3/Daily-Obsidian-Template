@@ -22,6 +22,7 @@ Plugins used:
 - [Natural Language Dates](https://github.com/argenos/nldates-obsidian) - Simple plugin that parses dates into more human readable format i.e tomorrow, today, next week.
 - [Tag Wrangler](https://github.com/pjeby/tag-wrangler) - Simple tool for mass edition and help with working with tags.
 - [Timestamp Notes](https://github.com/juliang22/ObsidianTimestampNotes) - Plugin that allows you to timestamp and note alongside a video.
+- [Callout manager](https://github.com/eth-p/obsidian-callout-manager) - Easier managing and creating of callouts.
 
 Screenshots:
 - 
@@ -38,4 +39,4 @@ TODO:
 - [ ] Edit all keybinds to own liking.
 - [ ] Add keybind guide to github repo.
 - [ ] Edit more of plugin settings.
-- [ ] Look at Zotero and if applicable look for sync with obsidian.
+- [x] Look at Zotero and if applicable look for sync with obsidian.
