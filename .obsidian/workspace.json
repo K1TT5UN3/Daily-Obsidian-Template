@@ -216,17 +216,17 @@
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-media-db-plugin:Add new Media DB entry": false,
       "media-extended:Open external media": false
     }
   },
   "active": "cd64bbfc2fa6d594",
   "lastOpenFiles": [
-    "README.md",
+    "99 - Assets/Templates/test.md",
+    "99 - Assets/Templates/Untitled.md",
     "99 - Assets/Templates/Media.md",
+    "README.md",
     "10 - Media/2 - Shows/Untitled.md",
     "10 - Media/1 - Movies/Untitled.md",
-    "99 - Assets/Templates/Untitled.md",
     "10 - Media/5 - Books/README.md",
     "10 - Media/4 - Games/HELLDIVERS™ 2 (2024).md",
     "Media DB/games/HELLDIVERS™ 2 (2024).md",
@@ -256,7 +256,6 @@
     "2024-01-02.md",
     "BRAT.md",
     "99 - Assets/JS Scripts/README.md",
-    "15 - Random/test.md",
     "99 - Assets/JS Scripts"
   ]
 }
