@@ -1,5 +1,9 @@
 {
   "theme": "obsidian",
   "cssTheme": "Shiba Inu",
-  "accentColor": "#ae00ff"
+  "accentColor": "#ae00ff",
+  "enabledCssSnippets": [
+    "callouttest",
+    "mediacallout"
+  ]
 }

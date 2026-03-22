@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99 - Assets/Templates/Media.md",
+                "file": "99 - Assets/Templates/Untitled.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Media"
+              "title": "Untitled"
             }
           }
         ]
@@ -222,10 +222,17 @@
   },
   "active": "cd64bbfc2fa6d594",
   "lastOpenFiles": [
-    "99 - Assets/Templates/Daily note.md",
+    "99 - Assets/Images/Thumbnails/resized/f255dde894a1e9ee55c9c1e8ec32c710_86cf658e.webp.md",
     "99 - Assets/Templates/Untitled.md",
-    "99 - Assets/Templates/Media.md",
+    "99 - Assets/Images/Thumbnails/resized",
+    "99 - Assets/Images/Thumbnails",
     "README.md",
+    "99 - Assets/Images/Thumbnails/resized/f255dde894a1e9ee55c9c1e8ec32c710_86cf658e.webp",
+    "99 - Assets/Templates/Media.md",
+    "99 - Assets/Images/temp image.webp",
+    "99 - Assets/Snippets/callouttest.css.md",
+    "99 - Assets/Templates/Daily note.md",
+    "{{coverUrl}}.md",
     "99 - Assets/Templates/test.md",
     "10 - Media/2 - Shows/Untitled.md",
     "10 - Media/1 - Movies/Untitled.md",
@@ -252,11 +259,6 @@
     "10 - Media/9 - Creators",
     "Hideaki Anno.md",
     "10 - Media/Music/CHASER (by femtanyl - 2023).md",
-    "99 - Assets/Media/README.md",
-    "99 - Assets/Media",
-    "2026-03-16.md",
-    "2024-01-02.md",
-    "BRAT.md",
-    "99 - Assets/JS Scripts"
+    "99 - Assets/Media/README.md"
   ]
 }

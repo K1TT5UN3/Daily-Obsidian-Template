@@ -174,3 +174,5 @@ image_url:
 added: <% tp.date.now("YYYY/MM/DD HH:mm") %>
 type: <% type %>
 ---
+
+> [!mediacallout] []

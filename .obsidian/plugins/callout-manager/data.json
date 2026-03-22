@@ -1,7 +1,36 @@
 {
   "callouts": {
-    "custom": [],
-    "settings": {}
+    "custom": [
+      "customtestteste"
+    ],
+    "settings": {
+      "bug": [
+        {
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "243, 139, 168"
+          }
+        }
+      ],
+      "customtestteste": [
+        {
+          "changes": {
+            "color": "255, 112, 112"
+          }
+        }
+      ]
+    }
   },
   "calloutDetection": {
     "obsidian": true,

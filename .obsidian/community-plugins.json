@@ -5,18 +5,17 @@
   "notebook-navigator",
   "templater-obsidian",
   "dataview",
-  "image-converter",
   "table-editor-obsidian",
   "sheets",
   "obsidian-style-settings",
   "pretty-properties",
   "omnisearch",
-  "featured-image",
   "text-extractor",
   "obsidian-heading-shifter",
   "media-extended",
   "nldates-obsidian",
   "tag-wrangler",
   "obsidian-timestamp-notes",
-  "callout-manager"
+  "callout-manager",
+  "image-converter"
 ]
