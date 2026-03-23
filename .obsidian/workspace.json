@@ -11,10 +11,14 @@
             "id": "cd64bbfc2fa6d594",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "99 - Assets/Templates/Media.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Media"
             }
           }
         ]
@@ -216,10 +220,11 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "cb11a5b8bdd0eb51",
+  "active": "cd64bbfc2fa6d594",
   "lastOpenFiles": [
-    "99 - Assets/Templates/Untitled 1.md",
+    "10 - Media/2 - Shows/e.md",
     "99 - Assets/Templates/Untitled.md",
+    "99 - Assets/Templates/Untitled 1.md",
     "10 - Media/2 - Shows/test.md",
     "99 - Assets/Templates/Media.md",
     "99 - Assets/Templates/README.md",
@@ -254,7 +259,6 @@
     "10 - Media/7 - Manga",
     "10 - Media/6 - Comics",
     "10 - Media/9 - Creators",
-    "Hideaki Anno.md",
-    "10 - Media/Music/CHASER (by femtanyl - 2023).md"
+    "Hideaki Anno.md"
   ]
 }
