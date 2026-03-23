@@ -42,6 +42,8 @@ function get_folder() {
 
 const type = get_folder();
 let frontmatter = "";
+let info = "";
+let note = "";
 
 switch (type) {
 	case "movie":
@@ -59,6 +61,48 @@ earnings:
 status:
 finished_by:
 reviewed_by:`;
+		info = `> # Title: \`=this.title\`
+> #### Date of release: \`=this.release_date\`
+> #### Genres: \`=this.genres\`
+> #### Runtime: \`=this.runtime\`
+> #### Publisher: \`=this.publisher\`
+> #### Director: \`=this.director\`
+> #### Writer: \`=this.writer\`
+> #### Original language: \`=this.language\`
+> #### Budget: \`=this.budget\`
+> #### Earnings: \`=this.earnings\`
+> #### Status: \`=this.status\``;
+		note = `# Summary:
+
+
+^Written by: 
+---
+# Rating:
+
+| **Name** |            1            |            2            |            3            |            4            |            5            |            6            |            7            |            8            |            9            |           10            |
+| -------- | :---------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: |
+|          | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> |
+
+---
+# Review:
+
+## Written by: 
+
+
+---
+# Quotes:
+
+- 
+
+---
+# Watched by:
+
+- 
+
+---
+# Notes:
+
+`;
 		break;
 	case "show":
 		frontmatter = `title:
@@ -77,6 +121,50 @@ earnings:
 status:
 finished_by:
 reviewed_by:`;
+		info = `> # Title: \`=this.title\`
+> #### Date of release: \`=this.release_date\`
+> #### Genres: \`=this.genres\`
+> #### Total number of seasons: \`=this.seasons\`
+> #### Total number of episodes: \`=this.episodes\`
+> #### Total runtime: \`=this.runtime\`
+> #### Publisher: \`=this.publisher\`
+> #### Director: \`=this.director\`
+> #### Writer: \`=this.writer\`
+> #### Original language: \`=this.language\`
+> #### Budget: \`=this.budget\`
+> #### Earnings: \`=this.earnings\`
+> #### Status: \`=this.status\``;
+		note = `# Summary:
+
+
+^Written by: 
+---
+# Rating:
+
+| **Name** |            1            |            2            |            3            |            4            |            5            |            6            |            7            |            8            |            9            |           10            |
+| -------- | :---------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: |
+|          | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> |
+
+---
+# Review:
+
+## Written by: 
+
+
+---
+# Quotes:
+
+- 
+
+---
+# Watched by:
+
+- 
+
+---
+# Notes:
+
+`;
 		break;
 	case "music":
 		frontmatter = `title:
@@ -88,7 +176,38 @@ tracks:
 runtime:
 language:
 finished_by:
-reviewed_by:
+reviewed_by:`;
+		info = `> # Title: \`=this.title\`
+> #### Date of release: \`=this.release_date\`
+> #### Genres: \`=this.genres\`
+> #### Authors: \`=this.author\`
+> #### Amount of tracks: \`=this.tracks\`
+> #### Runtime: \`=this.runtime\`
+> #### Language: \`=this.language\``;
+		note = `# Description:
+
+
+^Written by: 
+---
+# Rating:
+
+| **Name** |            1            |            2            |            3            |            4            |            5            |            6            |            7            |            8            |            9            |           10            |
+| -------- | :---------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: |
+|          | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> |
+
+---
+# Review:
+
+## Written by: 
+
+
+---
+# Listened to by:
+
+- 
+
+---
+# Notes:
 `;
 		break;
 	case "game":
@@ -101,7 +220,39 @@ publisher:
 store:
 available_on:
 finished_by:
-reviewed_by:
+reviewed_by:`;
+		info = `> # Title: \`=this.title\`
+> #### Date of release: \`=this.release_date\`
+> #### Genres: \`=this.genres\`
+> #### Authors: \`=this.author\`
+> #### Publisher: \`=this.publisher\`
+> #### Store: \`=this.store\`
+> #### Platforms: \`=this.available_on\``;
+		note = `# Description:
+
+
+^Written by: 
+---
+# Rating:
+
+| **Name** |            1            |            2            |            3            |            4            |            5            |            6            |            7            |            8            |            9            |           10            |
+| -------- | :---------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: |
+|          | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> |
+
+---
+# Review:
+
+## Written by: 
+
+
+---
+# Played by:
+
+- 
+
+---
+# Notes:
+
 `;
 		break;
 	case "book":
@@ -115,6 +266,44 @@ pages:
 isbn:
 finished_by:
 reviewed_by:`;
+		info = `> # Title: \`=this.title\`
+> #### Date of release: \`=this.release_date\`
+> #### Genres: \`=this.genres\`
+> #### Authors: \`=this.author\`
+> #### Publisher: \`=this.publisher\`
+> #### Total number of pages: \`=this.pages\`
+> #### ISBN: \`=this.isbn\``;
+		note = `# Summary:
+
+
+^Written by: 
+---
+# Rating:
+
+| **Name** |            1            |            2            |            3            |            4            |            5            |            6            |            7            |            8            |            9            |           10            |
+| -------- | :---------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: |
+|          | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> |
+
+---
+# Review:
+
+## Written by: 
+
+
+---
+# Quotes:
+
+- 
+
+---
+# Read by:
+
+- 
+
+---
+# Notes:
+
+`;
 		break;
 	case "comic":
 		frontmatter = `title:
@@ -127,7 +316,45 @@ series:
 pages:
 chapters:
 finished_by:
-reviewed_by:
+reviewed_by:`;
+		info = `> # Title: \`=this.title\`
+> #### Date of release: \`=this.release_date\`
+> #### Genres: \`=this.genres\`
+> #### Authors: \`=this.author\`
+> #### Publisher: \`=this.publisher\`
+> #### Series: \`=this.series\`
+> #### Total number of pages: \`=this.pages\`
+> #### Number of chapters: \`=this.chapters\``;
+		note = `# Summary:
+
+
+^Written by: 
+---
+# Rating:
+
+| **Name** |            1            |            2            |            3            |            4            |            5            |            6            |            7            |            8            |            9            |           10            |
+| -------- | :---------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: |
+|          | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> |
+
+---
+# Review:
+
+## Written by: 
+
+
+---
+# Quotes:
+
+- 
+
+---
+# Read by:
+
+- 
+
+---
+# Notes:
+
 `;
 		break;
 	case "manga":
@@ -142,7 +369,46 @@ pages:
 chapters:
 demographic:
 finished_by:
-reviewed_by:
+reviewed_by:`;
+		info = `> # Title: \`=this.title\`
+> #### Date of release: \`=this.release_date\`
+> #### Genres: \`=this.genres\`
+> #### Authors: \`=this.author\`
+> #### Publisher: \`=this.publisher\`
+> #### Series: \`=this.series\`
+> #### Total number of pages: \`=this.pages\`
+> #### Number of chapters: \`=this.chapters\`
+> #### Demographic: \`=this.demographic\``;
+		note = `# Summary:
+
+
+^Written by: 
+---
+# Rating:
+
+| **Name** |            1            |            2            |            3            |            4            |            5            |            6            |            7            |            8            |            9            |           10            |
+| -------- | :---------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: |
+|          | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> |
+
+---
+# Review:
+
+## Written by: 
+
+
+---
+# Quotes:
+
+- 
+
+---
+# Read by:
+
+- 
+
+---
+# Notes:
+
 `;
 		break;
 	case "tabletop":
@@ -154,6 +420,42 @@ author:
 publisher:
 finished_by:
 reviewed_by:`;
+		info = `> # Title: \`=this.title\`
+> #### Date of release: \`=this.release_date\`
+> #### Genres: \`=this.genres\`
+> #### Authors: \`=this.author\`
+> #### Publisher: \`=this.publisher\``;
+		note = `# Summary:
+
+
+^Written by: 
+---
+# Rating:
+
+| **Name** |            1            |            2            |            3            |            4            |            5            |            6            |            7            |            8            |            9            |           10            |
+| -------- | :---------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: |
+|          | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> |
+
+---
+# Review:
+
+## Written by: 
+
+
+---
+# Quotes:
+
+- 
+
+---
+# Played by:
+
+- 
+
+---
+# Notes:
+
+`;
 		break;
 	case "creator":
 		frontmatter = `name:
@@ -161,8 +463,36 @@ birth:
 death:
 nationality:
 birthplace:
-age:
-`;
+age:`;
+		info = `> # Name: \`=this.name\`
+> #### Born: \`=this.birth\`
+> #### Died: \`=this.death\`
+> #### Nationality: \`=this.nationality\`
+> #### Country of birth: \`=this.birthplace\`
+> #### Age: \`=this.age\``;
+		note = `# Biography:
+
+
+^Written by:
+---
+# Personal life:
+
+
+^Written by:
+---
+# Created works:
+
+- 
+
+---
+# Awards:
+
+- 
+
+---
+# Notes:
+
+`
 		break;
 	case "misc":
 		break;
@@ -175,4 +505,8 @@ added: <% tp.date.now("YYYY/MM/DD HH:mm") %>
 type: <% type %>
 ---
 
-> [!mediacallout] []
+> [!mediacallout] Information
+> `="!"+this.image_url`
+<% info %>
+
+<% note %>
