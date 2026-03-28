@@ -583,6 +583,7 @@ image_url:
 <% frontmatter %>
 added: <% tp.date.now("YYYY/MM/DD HH:mm") %>
 type: <% type %>
+category:media
 ---
 
 > [!mediacallout] Information
