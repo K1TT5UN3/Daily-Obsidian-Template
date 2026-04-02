@@ -30,17 +30,21 @@ image_url:
 > ###### Sodium: `=this.sodium`
 
 <h1 class='center'>Ingredients</h1>
+
 - 
 
 <h2 class='center'>Spices</h2>
+
 - 
 
 ---
 <h1 class='center'>Instructions</h1>
+
 1. 
 
 ---
 <h1 class='center'>Variations</h1>
+
 
 
 ---

@@ -5,6 +5,7 @@
   "enabledCssSnippets": [
     "callouttest",
     "mediacallout",
-    "aligning"
+    "aligning",
+    "header_size"
   ]
 }
