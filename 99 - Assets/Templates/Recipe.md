@@ -29,24 +29,20 @@ image_url:
 > ###### Protein: `=this.protein`
 > ###### Sodium: `=this.sodium`
 
-# Ingredients
-
+<h1 class='center'>Ingredients</h1>
 - 
 
-## Spices
-
+<h2 class='center'>Spices</h2>
 - 
 
 ---
-# Instructions
-
+<h1 class='center'>Instructions</h1>
 1. 
 
 ---
-# Variations
-
+<h1 class='center'>Variations</h1>
 
 
 ---
-## Notes
+<h2 class='center'>Notes</h2>
 
