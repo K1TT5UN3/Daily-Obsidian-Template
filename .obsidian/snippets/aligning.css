@@ -1,14 +1,14 @@
-.center-align {
+.center {
     display: block;
     text-align: center;
 }
 
-.right-align {
+.right {
     display: block;
     text-align: right;
 }
 
-.left-align {
+.left {
     display: block;
     text-align: left;
 }

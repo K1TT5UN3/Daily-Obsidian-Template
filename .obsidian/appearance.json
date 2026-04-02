@@ -4,6 +4,7 @@
   "accentColor": "#ae00ff",
   "enabledCssSnippets": [
     "callouttest",
-    "mediacallout"
+    "mediacallout",
+    "aligning"
   ]
 }
