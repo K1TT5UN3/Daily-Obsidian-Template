@@ -1,6 +1,6 @@
 {
   "installedVersion": "1.0.0-beta1",
-  "activeCalendarSet": "Default",
+  "activeCalendarSet": "Meteors",
   "showGettingStartedBanner": false,
   "hasMigratedDailyNoteSettings": false,
   "hasMigratedWeeklyNoteSettings": false,
@@ -8,17 +8,32 @@
     {
       "day": {
         "enabled": true,
-        "openAtStartup": false,
+        "openAtStartup": true,
         "format": "",
-        "templatePath": "",
-        "folder": ""
+        "templatePath": "99 - Assets/Templates/Daily note.md",
+        "folder": "01 - Daily/Meteors/"
       },
       "week": {},
       "month": {},
       "quarter": {},
       "year": {},
-      "id": "Default",
+      "id": "Meteors",
       "ctime": "2026-03-13T04:22:40+01:00"
+    },
+    {
+      "day": {
+        "enabled": true,
+        "openAtStartup": true,
+        "format": "",
+        "templatePath": "99 - Assets/Templates/Daily note.md",
+        "folder": "01 - Daily/Leaves"
+      },
+      "week": {},
+      "month": {},
+      "quarter": {},
+      "year": {},
+      "id": "Leaves",
+      "ctime": "2026-04-04T03:19:23+02:00"
     }
   ],
   "enableTimelineComplication": true

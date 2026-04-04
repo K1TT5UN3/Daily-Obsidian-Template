@@ -6,6 +6,7 @@
     "callouttest",
     "mediacallout",
     "aligning",
-    "header_size"
+    "header_size",
+    "default_header_align"
   ]
 }

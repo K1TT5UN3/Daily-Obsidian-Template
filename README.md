@@ -23,6 +23,8 @@ Plugins used:
 - [Tag Wrangler](https://github.com/pjeby/tag-wrangler) - Simple tool for mass edition and help with working with tags.
 - [Timestamp Notes](https://github.com/juliang22/ObsidianTimestampNotes) - Plugin that allows you to timestamp and note alongside a video.
 - [Callout manager](https://github.com/eth-p/obsidian-callout-manager) - Easier managing and creating of callouts.
+- [Obsidian Table Checkboxes](https://github.com/0x-DLN/obsidian-table-checkboxes) - Allows for creation of checkboxes in tables making it much nicer for customization
+- [Checkbox Sync](https://github.com/groldsf/obsidian_check_plugin) - Let's easily sync up children and parents of checkboxes
 
 Screenshots:
 - 
