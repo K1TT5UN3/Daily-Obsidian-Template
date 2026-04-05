@@ -19,5 +19,6 @@
   "tag-wrangler",
   "templater-obsidian",
   "text-extractor",
-  "obsidian-timestamp-notes"
+  "obsidian-timestamp-notes",
+  "text-block-timer"
 ]

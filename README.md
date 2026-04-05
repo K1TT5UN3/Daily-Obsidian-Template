@@ -25,6 +25,7 @@ Plugins used:
 - [Callout manager](https://github.com/eth-p/obsidian-callout-manager) - Easier managing and creating of callouts.
 - [Obsidian Table Checkboxes](https://github.com/0x-DLN/obsidian-table-checkboxes) - Allows for creation of checkboxes in tables making it much nicer for customization
 - [Checkbox Sync](https://github.com/groldsf/obsidian_check_plugin) - Let's easily sync up children and parents of checkboxes
+- [Text Block Timer](https://github.com/wth461694678/text-block-timer) - Just simple timer for manual work time management
 
 Screenshots:
 - 
