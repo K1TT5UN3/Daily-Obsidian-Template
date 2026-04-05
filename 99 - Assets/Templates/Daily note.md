@@ -58,3 +58,62 @@ creation date: <% tp.date.now() %>
 | Left knee      | <input type="checkbox" unchecked id="1b2ef2"> | <input type="checkbox" unchecked id="6e110d"> | <input type="checkbox" unchecked id="a466a3"> | <input type="checkbox" unchecked id="fffc1a"> | <input type="checkbox" unchecked id="f62fb7"> | <input type="checkbox" unchecked id="109526"> | <input type="checkbox" unchecked id="813722"> | <input type="checkbox" unchecked id="2490af"> | <input type="checkbox" unchecked id="d17bbd"> | <input type="checkbox" unchecked id="cbb9a6"> |
 | Right foot     | <input type="checkbox" unchecked id="67a5cb"> | <input type="checkbox" unchecked id="302b1e"> | <input type="checkbox" unchecked id="d959bb"> | <input type="checkbox" unchecked id="aef49d"> | <input type="checkbox" unchecked id="2a46c5"> | <input type="checkbox" unchecked id="535cc2"> | <input type="checkbox" unchecked id="57ca9c"> | <input type="checkbox" unchecked id="0b6d2a"> | <input type="checkbox" unchecked id="c6f703"> | <input type="checkbox" unchecked id="8fafc4"> |
 | Left foot      | <input type="checkbox" unchecked id="7e40fb"> | <input type="checkbox" unchecked id="d4b928"> | <input type="checkbox" unchecked id="2d27e4"> | <input type="checkbox" unchecked id="f1eff7"> | <input type="checkbox" unchecked id="914f76"> | <input type="checkbox" unchecked id="e8fc15"> | <input type="checkbox" unchecked id="15c4cb"> | <input type="checkbox" unchecked id="a566b2"> | <input type="checkbox" unchecked id="597afe"> | <input type="checkbox" unchecked id="61571d"> |
+#### Notes and additional concerns
+- 
+
+## Symptoms
+### Common symptoms
+
+|     |                       1                       |                       2                       |                       3                       |                       4                       |                       5                       |                       6                       |                       7                       |                       8                       |                       9                       |                      10                       |
+| :-- | :-------------------------------------------: | :-------------------------------------------: | :-------------------------------------------: | :-------------------------------------------: | :-------------------------------------------: | :-------------------------------------------: | :-------------------------------------------: | :-------------------------------------------: | :-------------------------------------------: | :-------------------------------------------: |
+|     | <input type="checkbox" unchecked id="7e40fb"> | <input type="checkbox" unchecked id="d4b928"> | <input type="checkbox" unchecked id="2d27e4"> | <input type="checkbox" unchecked id="f1eff7"> | <input type="checkbox" unchecked id="914f76"> | <input type="checkbox" unchecked id="e8fc15"> | <input type="checkbox" unchecked id="15c4cb"> | <input type="checkbox" unchecked id="a566b2"> | <input type="checkbox" unchecked id="597afe"> | <input type="checkbox" unchecked id="61571d"> |
+### Additional symptoms
+- 
+
+## Mental status
+### Common
+|     |                       1                       |                       2                       |                       3                       |                       4                       |                       5                       |                       6                       |                       7                       |                       8                       |                       9                       |                      10                       |
+| :-- | :-------------------------------------------: | :-------------------------------------------: | :-------------------------------------------: | :-------------------------------------------: | :-------------------------------------------: | :-------------------------------------------: | :-------------------------------------------: | :-------------------------------------------: | :-------------------------------------------: | :-------------------------------------------: |
+|     | <input type="checkbox" unchecked id="7e40fb"> | <input type="checkbox" unchecked id="d4b928"> | <input type="checkbox" unchecked id="2d27e4"> | <input type="checkbox" unchecked id="f1eff7"> | <input type="checkbox" unchecked id="914f76"> | <input type="checkbox" unchecked id="e8fc15"> | <input type="checkbox" unchecked id="15c4cb"> | <input type="checkbox" unchecked id="a566b2"> | <input type="checkbox" unchecked id="597afe"> | <input type="checkbox" unchecked id="61571d"> |
+### Additional
+- 
+
+### Full description
+
+
+## Physical description
+- 
+
+## Mental description
+- 
+
+---
+# Trackers
+## Fronting
+- [ ] 
+
+## Gender
+- [ ] 
+
+---
+# Food
+## Food eaten
+- 
+
+## Drinks
+- 
+
+## Water drank
+- [ ] 1 bottle
+- [ ] 2 bottles
+- [ ] 3 bottles
+
+---
+# Journal
+
+
+---
+# Notes
+
+
+---
