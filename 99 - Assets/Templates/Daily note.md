@@ -21,6 +21,27 @@ creation date: <% tp.date.now() %>
 - [ ] 
 
 ---
+# Food
+## Food eaten
+- 
+
+## Drinks
+- 
+
+## Water drank
+- [ ] 1 bottle
+- [ ] 2 bottles
+- [ ] 3 bottles
+
+---
+# Journal
+
+
+---
+# Notes
+
+
+---
 # Medical
 
 ## Medication taken
@@ -94,26 +115,5 @@ creation date: <% tp.date.now() %>
 
 ## Gender
 - [ ] 
-
----
-# Food
-## Food eaten
-- 
-
-## Drinks
-- 
-
-## Water drank
-- [ ] 1 bottle
-- [ ] 2 bottles
-- [ ] 3 bottles
-
----
-# Journal
-
-
----
-# Notes
-
 
 ---
