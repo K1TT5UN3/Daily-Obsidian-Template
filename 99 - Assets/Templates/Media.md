@@ -571,3 +571,4 @@ function get_folder() {
 document = get_folder();
 -%>
 <% document %>
+<%* tp.app.commands.executeCommandById('table-checkboxes:regenerate-checkbox-ids') -%>
