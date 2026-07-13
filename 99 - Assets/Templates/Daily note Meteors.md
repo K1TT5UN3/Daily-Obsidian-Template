@@ -1,9 +1,25 @@
 ---
-creation date: <% tp.date.now() %>
+wake_up:
+sleep:
+creation_date: <% tp.date.now("YYYY-MM-DD_HH-mm") %>
+owner: meteors
+---
+## [[<% "01 - Daily/Meteors/" + tp.date.now("YYYY", -1, tp.file.title, "YYYY-MM-DD") + "/" + tp.date.now("MM", -1, tp.file.title, "YYYY-MM-DD") + " - " + tp.date.now("MMMM", -1, tp.file.title, "YYYY-MM-DD") + "/" + tp.date.now("YYYY-MM-DD", -1, tp.file.title, "YYYY-MM-DD") %>|Yesterday]] <% tp.file.title %> [[<% "01 - Daily/Meteors/" + tp.date.now("YYYY", 1, tp.file.title, "YYYY-MM-DD") + "/" + tp.date.now("MM", 1, tp.file.title, "YYYY-MM-DD") + " - " + tp.date.now("MMMM", 1, tp.file.title, "YYYY-MM-DD") + "/" + tp.date.now("YYYY-MM-DD", 1, tp.file.title, "YYYY-MM-DD") %>|Tomorrow]]
+
 ---
 # Schedule
 
+- [ ] Wake up
+- [ ] Do morning routine![[Routines#^1163a0]]
 - [ ] 
+- [ ] Leaves rough wake up time
+- [ ] 
+- [ ] Make breakfast
+- [ ] 
+- [ ] Make dinner
+- [ ] 
+- [ ] Do evening routine ![[Routines#^876c1f]]
+- [ ] Sleep
 
 ---
 # Tasks
@@ -20,6 +36,10 @@ creation date: <% tp.date.now() %>
 
 - [ ] 
 
+
+## All tasks
+![[06 - Projects/Task list|Task list]]
+
 ---
 # Food
 ## Food eaten
@@ -32,6 +52,32 @@ creation date: <% tp.date.now() %>
 - [ ] 1 bottle
 - [ ] 2 bottles
 - [ ] 3 bottles
+
+---
+# Media consumed
+### Games
+- 
+
+### Movies
+- 
+
+### Shows
+- 
+
+### Books
+- 
+
+### Manga
+- 
+
+### Videos
+- 
+
+### Manga
+- 
+
+### Misc
+- 
 
 ---
 # Journal
@@ -47,13 +93,31 @@ creation date: <% tp.date.now() %>
 ## Medication taken
 ### Common medication
 - [ ] Morning
-	- [ ] 
+	- [ ] 1x Dutilox 90mg
+	- [ ] 1x Spironol 25mg
+	- [ ] 2x Estrofem 2mg
+	- [ ] 1x Devikap 4000IU
+	- [ ] 1x Atenza 27mg
+	- [ ] 1x Preato 75mg
 - [ ] Afternoon
-	- [ ] 
+	- [ ] 1x Fibers 610mg
+	- [ ] 1x Magnesium 100mg
+	- [ ] 1x Ashwagandha 200mg
+	- [ ] 1x Vitamin D + K 50µg
 - [ ] Evening
-	- [ ] 
+	- [ ] 1x Progesterone Besins 100mg
+	- [ ] 1x Preato 75mg
+	- [ ] 1x Oestrogel 0.75mg
 
-- [ ] 
+- [ ] 1x Diphergan 25mg
+- [ ] 1x Propranolol 10 mg
+- [ ] 1x Ketonal 100mg
+- [ ] 1x APAP 500mg
+- [ ] 1x Ibum Supermax 600mg
+- [ ] 1x No-Spa Max 80mg
+- [ ] 1x Ranigast 20mg
+- [ ] 1x Stoperan 2mg
+- [ ] 1x Caffeine 200mg
 
 ### Additional medication
 - [ ] 
@@ -85,9 +149,21 @@ creation date: <% tp.date.now() %>
 ## Symptoms
 ### Common symptoms
 
-|     |                       1                       |                       2                       |                       3                       |                       4                       |                       5                       |                       6                       |                       7                       |                       8                       |                       9                       |                      10                       |
-| :-- | :-------------------------------------------: | :-------------------------------------------: | :-------------------------------------------: | :-------------------------------------------: | :-------------------------------------------: | :-------------------------------------------: | :-------------------------------------------: | :-------------------------------------------: | :-------------------------------------------: | :-------------------------------------------: |
-|     | <input type="checkbox" unchecked id="7e40fb"> | <input type="checkbox" unchecked id="d4b928"> | <input type="checkbox" unchecked id="2d27e4"> | <input type="checkbox" unchecked id="f1eff7"> | <input type="checkbox" unchecked id="914f76"> | <input type="checkbox" unchecked id="e8fc15"> | <input type="checkbox" unchecked id="15c4cb"> | <input type="checkbox" unchecked id="a566b2"> | <input type="checkbox" unchecked id="597afe"> | <input type="checkbox" unchecked id="61571d"> |
+|                   |                       1                       |                       2                       |                       3                       |                       4                       |                       5                       |                       6                       |                       7                       |                       8                       |                       9                       |                      10                       |
+| :---------------- | :-------------------------------------------: | :-------------------------------------------: | :-------------------------------------------: | :-------------------------------------------: | :-------------------------------------------: | :-------------------------------------------: | :-------------------------------------------: | :-------------------------------------------: | :-------------------------------------------: | :-------------------------------------------: |
+| Nausea            | <input type="checkbox" unchecked id="7e40fb"> | <input type="checkbox" unchecked id="d4b928"> | <input type="checkbox" unchecked id="2d27e4"> | <input type="checkbox" unchecked id="f1eff7"> | <input type="checkbox" unchecked id="914f76"> | <input type="checkbox" unchecked id="e8fc15"> | <input type="checkbox" unchecked id="15c4cb"> | <input type="checkbox" unchecked id="a566b2"> | <input type="checkbox" unchecked id="597afe"> | <input type="checkbox" unchecked id="61571d"> |
+| Weakness          | <input type="checkbox" unchecked id="7e40fb"> | <input type="checkbox" unchecked id="d4b928"> | <input type="checkbox" unchecked id="2d27e4"> | <input type="checkbox" unchecked id="f1eff7"> | <input type="checkbox" unchecked id="914f76"> | <input type="checkbox" unchecked id="e8fc15"> | <input type="checkbox" unchecked id="15c4cb"> | <input type="checkbox" unchecked id="a566b2"> | <input type="checkbox" unchecked id="597afe"> | <input type="checkbox" unchecked id="61571d"> |
+| Acid reflux       | <input type="checkbox" unchecked id="7e40fb"> | <input type="checkbox" unchecked id="d4b928"> | <input type="checkbox" unchecked id="2d27e4"> | <input type="checkbox" unchecked id="f1eff7"> | <input type="checkbox" unchecked id="914f76"> | <input type="checkbox" unchecked id="e8fc15"> | <input type="checkbox" unchecked id="15c4cb"> | <input type="checkbox" unchecked id="a566b2"> | <input type="checkbox" unchecked id="597afe"> | <input type="checkbox" unchecked id="61571d"> |
+| Chest pain        | <input type="checkbox" unchecked id="7e40fb"> | <input type="checkbox" unchecked id="d4b928"> | <input type="checkbox" unchecked id="2d27e4"> | <input type="checkbox" unchecked id="f1eff7"> | <input type="checkbox" unchecked id="914f76"> | <input type="checkbox" unchecked id="e8fc15"> | <input type="checkbox" unchecked id="15c4cb"> | <input type="checkbox" unchecked id="a566b2"> | <input type="checkbox" unchecked id="597afe"> | <input type="checkbox" unchecked id="61571d"> |
+| Migraine          | <input type="checkbox" unchecked id="7e40fb"> | <input type="checkbox" unchecked id="d4b928"> | <input type="checkbox" unchecked id="2d27e4"> | <input type="checkbox" unchecked id="f1eff7"> | <input type="checkbox" unchecked id="914f76"> | <input type="checkbox" unchecked id="e8fc15"> | <input type="checkbox" unchecked id="15c4cb"> | <input type="checkbox" unchecked id="a566b2"> | <input type="checkbox" unchecked id="597afe"> | <input type="checkbox" unchecked id="61571d"> |
+| Vertigo           | <input type="checkbox" unchecked id="7e40fb"> | <input type="checkbox" unchecked id="d4b928"> | <input type="checkbox" unchecked id="2d27e4"> | <input type="checkbox" unchecked id="f1eff7"> | <input type="checkbox" unchecked id="914f76"> | <input type="checkbox" unchecked id="e8fc15"> | <input type="checkbox" unchecked id="15c4cb"> | <input type="checkbox" unchecked id="a566b2"> | <input type="checkbox" unchecked id="597afe"> | <input type="checkbox" unchecked id="61571d"> |
+| Tiredness         | <input type="checkbox" unchecked id="7e40fb"> | <input type="checkbox" unchecked id="d4b928"> | <input type="checkbox" unchecked id="2d27e4"> | <input type="checkbox" unchecked id="f1eff7"> | <input type="checkbox" unchecked id="914f76"> | <input type="checkbox" unchecked id="e8fc15"> | <input type="checkbox" unchecked id="15c4cb"> | <input type="checkbox" unchecked id="a566b2"> | <input type="checkbox" unchecked id="597afe"> | <input type="checkbox" unchecked id="61571d"> |
+| Nerve pain        | <input type="checkbox" unchecked id="7e40fb"> | <input type="checkbox" unchecked id="d4b928"> | <input type="checkbox" unchecked id="2d27e4"> | <input type="checkbox" unchecked id="f1eff7"> | <input type="checkbox" unchecked id="914f76"> | <input type="checkbox" unchecked id="e8fc15"> | <input type="checkbox" unchecked id="15c4cb"> | <input type="checkbox" unchecked id="a566b2"> | <input type="checkbox" unchecked id="597afe"> | <input type="checkbox" unchecked id="61571d"> |
+| Low energy        | <input type="checkbox" unchecked id="7e40fb"> | <input type="checkbox" unchecked id="d4b928"> | <input type="checkbox" unchecked id="2d27e4"> | <input type="checkbox" unchecked id="f1eff7"> | <input type="checkbox" unchecked id="914f76"> | <input type="checkbox" unchecked id="e8fc15"> | <input type="checkbox" unchecked id="15c4cb"> | <input type="checkbox" unchecked id="a566b2"> | <input type="checkbox" unchecked id="597afe"> | <input type="checkbox" unchecked id="61571d"> |
+| Struggling moving | <input type="checkbox" unchecked id="7e40fb"> | <input type="checkbox" unchecked id="d4b928"> | <input type="checkbox" unchecked id="2d27e4"> | <input type="checkbox" unchecked id="f1eff7"> | <input type="checkbox" unchecked id="914f76"> | <input type="checkbox" unchecked id="e8fc15"> | <input type="checkbox" unchecked id="15c4cb"> | <input type="checkbox" unchecked id="a566b2"> | <input type="checkbox" unchecked id="597afe"> | <input type="checkbox" unchecked id="61571d"> |
+| Painful pooping   | <input type="checkbox" unchecked id="7e40fb"> | <input type="checkbox" unchecked id="d4b928"> | <input type="checkbox" unchecked id="2d27e4"> | <input type="checkbox" unchecked id="f1eff7"> | <input type="checkbox" unchecked id="914f76"> | <input type="checkbox" unchecked id="e8fc15"> | <input type="checkbox" unchecked id="15c4cb"> | <input type="checkbox" unchecked id="a566b2"> | <input type="checkbox" unchecked id="597afe"> | <input type="checkbox" unchecked id="61571d"> |
+| Diarhea           | <input type="checkbox" unchecked id="7e40fb"> | <input type="checkbox" unchecked id="d4b928"> | <input type="checkbox" unchecked id="2d27e4"> | <input type="checkbox" unchecked id="f1eff7"> | <input type="checkbox" unchecked id="914f76"> | <input type="checkbox" unchecked id="e8fc15"> | <input type="checkbox" unchecked id="15c4cb"> | <input type="checkbox" unchecked id="a566b2"> | <input type="checkbox" unchecked id="597afe"> | <input type="checkbox" unchecked id="61571d"> |
+
 ### Additional symptoms
 - 
 
@@ -107,6 +183,9 @@ creation date: <% tp.date.now() %>
 
 ## Mental description
 - 
+
+## Symptoms for doctors
+!![[Symptoms for doctors#^3c3ff3]]
 
 ---
 # Trackers
