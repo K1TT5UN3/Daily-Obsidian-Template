@@ -34,7 +34,7 @@ TODO:
 - [ ] Create quick pain diagram css snippets.
 - [ ] Edit more of Notebook Navigator,
 - [ ] Make necessary templates (Daily note, Weekly note, Yearly note, Media entry, Food recipe),
-- [ ] Try out plugins more (Featured Image, Notebook Navigator, ),
+- [ ] Try out plugins more (Featured Image, Notebook Navigator, Tasks, make.md, ),
 - [ ] Configure Periodic Notes with proper templates and calendars for multiple users.
 - [ ] Look for pretty theme or create one as default.
 - [ ] Configure Pretty Properties for nice look with chosen theme.
@@ -42,4 +42,18 @@ TODO:
 - [ ] Edit all keybinds to own liking.
 - [ ] Add keybind guide to github repo.
 - [ ] Edit more of plugin settings.
-- [x] Look at Zotero and if applicable look for sync with obsidian.
+- [ ] Look at Zotero and if applicable look for sync with obsidian.
+- [ ] Add multiple task lists and one main one with all of them
+- [ ] Add task priority
+- [ ] Integrate tasks with dates, reocurring, with highest priority and such into daily note
+- [ ] Add task owner tags
+- [ ] Work over readability and usability of daily note
+- [ ] Add managerial meeting template
+- [ ] Add lists of stuff template like medical box stuff list
+- [ ] Update plugin lists and remove not used ones
+- [ ] Add syncthing integration (ignore list file)
+
+Some inspiration for later and other resources:
+- https://github.com/obsidian-pkm-vault/awesome-obsidian-vault
+- https://www.reddit.com/r/ObsidianMD/comments/1usx2il/how_to_make_obsidian_cute_and_functional/
+- https://www.youtube.com/watch?v=_Q_UEvWxwNw&sttick=0
