@@ -1,4 +1,4 @@
-# Daily-Obsidian-Template
+/# Daily-Obsidian-Template
 
 This repository is a template for daily planner made in Obsidian. It's made for two (or probably more) people to use and share at the same time. Anywhere where there is "Meteors" and "Leaves" folder it signifies different people, "Forest Fire" means together or shared folder and while properly used it should be changed to user names or removed. It's being made for personal use so some folders or options used might seem excessive or useless so feel free to edit, fork and use this template to your own liking and needs.
 
