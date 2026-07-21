@@ -1,0 +1,21 @@
+- Status
+	- Not bought
+	- No hardware
+	- To check out game for streaming
+	- Prepared
+	- Without thumbnail
+	- Finished
+	- Cancelled
+	- Continuing
+	- Not released game
+	- Not approved
+- Description to copy
+- Thumbnail idea
+- Title fields
+- Content idea
+- List of assets to prepare
+- Basic information about game
+- Just other notes and such
+- Reason for cancellation
+- Script
+- Manager thoughts
