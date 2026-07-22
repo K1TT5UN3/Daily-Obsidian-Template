@@ -20,5 +20,7 @@
   "templater-obsidian",
   "text-extractor",
   "obsidian-timestamp-notes",
-  "text-block-timer"
+  "text-block-timer",
+  "make-md",
+  "buttons"
 ]
