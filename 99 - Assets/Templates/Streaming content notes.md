@@ -8,7 +8,6 @@
 	- Cancelled
 	- Continuing
 	- Not released game
-	- Not approved
 - Description to copy
 - Thumbnail idea
 - Title fields
@@ -18,4 +17,3 @@
 - Just other notes and such
 - Reason for cancellation
 - Script
-- Manager thoughts
