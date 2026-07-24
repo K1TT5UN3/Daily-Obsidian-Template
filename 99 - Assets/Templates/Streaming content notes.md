@@ -8,6 +8,8 @@
 	- Cancelled
 	- Continuing
 	- Not released game
+- Type
+	- 
 - Description to copy
 - Thumbnail idea
 - Title fields
