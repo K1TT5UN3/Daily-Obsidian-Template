@@ -9,13 +9,20 @@
 	- Continuing
 	- Not released game
 - Type
-	- 
+	- Short
+	- Live stream
+	- Videos
+	- Music and covers
+	- General Ideas (Other)
 - Description to copy
 - Thumbnail idea
 - Title fields
 - Content idea
 - List of assets to prepare
 - Basic information about game
+	- Hardware
+	- Source platform
+	- Link source
 - Just other notes and such
 - Reason for cancellation
 - Script
