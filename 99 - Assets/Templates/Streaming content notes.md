@@ -24,7 +24,10 @@
 	- Source platform
 	- Link source
 	- If possible using emulator
+	- Played before
+	- Need to play blind
 - Just other notes and such
+- Additional list of stuff needed to do
 - Reason for streaming or for not streaming
 - Reason for cancellation
 - Script
