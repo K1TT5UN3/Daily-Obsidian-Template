@@ -23,6 +23,8 @@
 	- Hardware
 	- Source platform
 	- Link source
+	- If possible using emulator
 - Just other notes and such
+- Reason for streaming or for not streaming
 - Reason for cancellation
 - Script
