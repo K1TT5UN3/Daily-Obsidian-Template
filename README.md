@@ -54,6 +54,7 @@ TODO:
 - [ ] Add lists of stuff template like medical box stuff list
 - [ ] Update plugin lists and remove not used ones
 - [ ] Add syncthing integration (ignore list file)
+- [ ] CHANGE ENTIRE DAILY NOTE SYSTEM INTO ONE NOTE FOR TWO PEOPLE!!!
 
 Some inspiration for later and other resources:
 - https://github.com/obsidian-pkm-vault/awesome-obsidian-vault
