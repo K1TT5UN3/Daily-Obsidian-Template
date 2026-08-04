@@ -28,11 +28,17 @@ owner: meteors
 <span class="timer-p" id="vfSQKH5" data-dur="0" data-ts="1775359795">【💐00:00:00 】</span>
 
 ## Tasks done
+```button
+name Add common task
+type append template
+action Common tasks
+```
+^button-8q04
 
 - [ ] 
 
 
-## Important tasks
+## Reminders
 
 - [ ] 
 
@@ -186,13 +192,3 @@ owner: meteors
 
 ## Symptoms for doctors
 !![[Symptoms for doctors#^3c3ff3]]
-
----
-# Trackers
-## Fronting
-- [ ] 
-
-## Gender
-- [ ] 
-
----
