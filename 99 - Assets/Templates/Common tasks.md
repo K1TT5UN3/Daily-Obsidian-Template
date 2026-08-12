@@ -17,3 +17,13 @@ let task = await tp.system.suggester(["Gave goobies food.", "Refilled goobies wa
 ", true, "Choose done activities");
 -%>
 <% task %>
+
+TODO
+
+- [ ] cut nails
+- [ ] shower
+- [ ] take out trash
+- [ ] wash floor
+- [ ] shaved
+- [ ] Get blinds up
+- [ ] blinds down
