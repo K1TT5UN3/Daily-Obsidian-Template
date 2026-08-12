@@ -11,13 +11,12 @@ sleep_leaves:
 
 ## Activities done
 ```button
-name Add common task
+name Add common tasks
 type append template
 action Common tasks
 ```
-^button-8q04
+^button-y2ga
 
-		- [ ] 
 
 ## Reminders
 
