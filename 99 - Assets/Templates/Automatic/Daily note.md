@@ -22,12 +22,9 @@ owner: meteors
 - [ ] Sleep
 
 ---
-# Tasks
+# Activities
 
-#### Time worked:
-<span class="timer-p" id="vfSQKH5" data-dur="0" data-ts="1775359795">【💐00:00:00 】</span>
-
-## Tasks done
+## Activities done
 ```button
 name Add common task
 type append template

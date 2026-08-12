@@ -21,6 +21,8 @@ Plugins used:
 - [Checkbox Sync](https://github.com/groldsf/obsidian_check_plugin) - Let's easily sync up children and parents of checkboxes
 - [Text Block Timer](https://github.com/wth461694678/text-block-timer) - Just simple timer for manual work time management
 - [Buttons](https://github.com/shabegom/buttons) - Adds buttons for easier user promped automation
+- [Tasks](https://github.com/obsidian-tasks-group/obsidian-tasks) - Adds very useful addons for tasks and checkboxes. Essential addon.
+- [Meta Bind](github.com/mprojectscode/obsidian-meta-bind-plugin) - Allows to bind parts of note to frontmatter for making more interactive notes.
 
 Screenshots:
 - 
