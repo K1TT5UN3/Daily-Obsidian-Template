@@ -24,6 +24,17 @@ Plugins used:
 - [Tasks](https://github.com/obsidian-tasks-group/obsidian-tasks) - Adds very useful addons for tasks and checkboxes. Essential addon.
 - [Meta Bind](github.com/mprojectscode/obsidian-meta-bind-plugin) - Allows to bind parts of note to frontmatter for making more interactive notes.
 
+Plugins to check out:
+- [Kanban](https://github.com/community-archive/obsidian-kanban)
+- [Excalidraw](https://github.com/zsviczian/obsidian-excalidraw-plugin)
+- [Mind Map](https://github.com/lynchjames/obsidian-mind-map)
+- [Spaced Repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition)
+- [Folder Notes](https://github.com/lostpaul/obsidian-folder-notes)
+- [RSS Dashboard](https://github.com/amatya-aditya/obsidian-rss-dashboard)
+- [ZotLit](https://github.com/aidenlx/zotlit)
+- [Recipe View](https://github.com/lachsh/obsidian-recipe-view)
+- [Map View](https://github.com/esm7/obsidian-map-view)
+
 Screenshots:
 - 
 
