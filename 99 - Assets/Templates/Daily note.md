@@ -10,15 +10,16 @@ sleep_leaves:
 # Activities
 
 ## Activities done
+
+
+
+## Reminders
 ```button
 name Add common tasks
 type append template
 action Common tasks
 ```
 ^button-y2ga
-
-
-## Reminders
 
 - [ ] 
 
