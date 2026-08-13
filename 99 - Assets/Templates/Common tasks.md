@@ -12,7 +12,7 @@ let task = await tp.system.suggester(["Gave goobies food.", "Refilled goobies wa
 ", "- [ ] Turned on dishwasher #\
 ", "- [ ] Made tea #\
 ", "- [ ] Made coffee #\
-". "- [ ] Vacuumed room #\
+", "- [ ] Vacuumed room #\
 ", "- [ ] Prepared medication #\
 ", "- [ ] Cut nails #\
 ", "- [ ] Changed trash bag #\
