@@ -9,7 +9,6 @@
   "table-checkboxes",
   "media-extended",
   "omnisearch",
-  "periodic-notes",
   "pretty-properties",
   "sheets",
   "tag-wrangler",
@@ -26,5 +25,6 @@
   "folder-notes",
   "rss-dashboard",
   "recipe-view",
-  "obsidian-map-view"
+  "obsidian-map-view",
+  "periodic-notes"
 ]
