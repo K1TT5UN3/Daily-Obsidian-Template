@@ -8,6 +8,7 @@
     "aligning",
     "header_size",
     "default_header_align",
-    "middle_title"
+    "middle_title",
+    "task_decor"
   ]
 }
