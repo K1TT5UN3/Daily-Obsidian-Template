@@ -11,7 +11,13 @@ sleep_leaves:
 
 ## Activities done
 
-
+```tasks
+done on today
+hide task count
+hide backlink
+hide toolbar
+show tree
+```
 
 ## Reminders
 ```button
@@ -20,6 +26,7 @@ type append template
 action Common tasks
 ```
 ^button-y2ga
+
 
 
 ---
