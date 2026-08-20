@@ -29,7 +29,6 @@ Plugins to check out:
 - [Excalidraw](https://github.com/zsviczian/obsidian-excalidraw-plugin)
 - [Folder Notes](https://github.com/lostpaul/obsidian-folder-notes)
 - [RSS Dashboard](https://github.com/amatya-aditya/obsidian-rss-dashboard)
-- [ZotLit](https://github.com/aidenlx/zotlit)
 - [Map View](https://github.com/esm7/obsidian-map-view)
 
 Screenshots:
