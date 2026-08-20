@@ -1,1 +1,0 @@
-This folder contains not yet sorted and automatically created notes. 
