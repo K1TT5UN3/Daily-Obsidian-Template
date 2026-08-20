@@ -1,0 +1,8 @@
+/* hide blockID except on hover or active line */
+:not(.cm-active) > .cm-blockid {
+    opacity: 0;
+}
+
+:not(.cm-active) > .cm-blockid:hover {
+    opacity: 1;
+}
