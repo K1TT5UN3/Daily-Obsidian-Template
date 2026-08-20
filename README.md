@@ -27,12 +27,9 @@ Plugins used:
 Plugins to check out:
 - [Kanban](https://github.com/community-archive/obsidian-kanban)
 - [Excalidraw](https://github.com/zsviczian/obsidian-excalidraw-plugin)
-- [Mind Map](https://github.com/lynchjames/obsidian-mind-map)
-- [Spaced Repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition)
 - [Folder Notes](https://github.com/lostpaul/obsidian-folder-notes)
 - [RSS Dashboard](https://github.com/amatya-aditya/obsidian-rss-dashboard)
 - [ZotLit](https://github.com/aidenlx/zotlit)
-- [Recipe View](https://github.com/lachsh/obsidian-recipe-view)
 - [Map View](https://github.com/esm7/obsidian-map-view)
 
 Screenshots:
