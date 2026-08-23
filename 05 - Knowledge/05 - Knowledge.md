@@ -1,0 +1,1 @@
+Contains research notes, topics to look into and general information about anything.
