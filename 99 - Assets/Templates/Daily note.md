@@ -18,8 +18,6 @@ note_type: daily_note
 
 ```tasks
 done on today
-hide task count
-hide backlink
 hide toolbar
 show tree
 ```
@@ -33,6 +31,13 @@ action Common tasks
 ^button-y2ga
 
 
+## Time sensitive
+```tasks
+show tree
+hide toolbar
+path includes 04 - Projects
+due on or before next week
+```
 
 ---
 ```meta-bind-button
