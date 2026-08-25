@@ -1,0 +1,1 @@
+Default folder where notes go to when first created, wait for correct metadata and placement and for auto creation.

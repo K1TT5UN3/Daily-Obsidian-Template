@@ -1,1 +1,0 @@
-This folder contains information about authors and creators of different media for ease of search and archivization purposes.

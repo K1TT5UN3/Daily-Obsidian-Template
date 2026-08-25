@@ -1,0 +1,1 @@
+Contains any medical related notes like tests, lists of doctors and such.
