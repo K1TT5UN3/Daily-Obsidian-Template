@@ -1,1 +1,0 @@
-This folder contains manga overviews, long and short reviews, completion trackers, archivization and such.
