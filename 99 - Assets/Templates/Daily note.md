@@ -17,7 +17,7 @@ note_type: daily_note
 ## Activities done
 
 ```tasks
-done on today
+done on <% tp.file.title %>
 hide toolbar
 show tree
 ```
