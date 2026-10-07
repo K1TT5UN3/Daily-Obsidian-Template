@@ -1,0 +1,1 @@
+Folder with notes that contain random thoughts and such.

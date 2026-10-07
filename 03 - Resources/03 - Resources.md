@@ -1,0 +1,1 @@
+Folder with any resource, constant list or anything useful in day to day life.

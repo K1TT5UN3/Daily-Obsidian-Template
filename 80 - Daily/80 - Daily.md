@@ -1,0 +1,1 @@
+Contains daily notes.
