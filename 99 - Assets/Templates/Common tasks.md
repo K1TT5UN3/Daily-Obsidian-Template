@@ -1,33 +1,5 @@
 <%*
-let task = await tp.system.suggester(["Cleaned glasses.", "Grabbed snackies.", "Gave goobies food.", "Refilled goobies water.", "Refilled water bottles.", "Cleaned litter box.", "Refilled litter box.", "Made food.", "Prepared food.", "Turned on dishwasher.", "Made tea.", "Made coffee.", "Vacuumed room.", "Prepared medication.", "Cut nails.", "Took out trash.", "Washed floor.", "Shaved.", "Shaved body.", "Put up blinds.", "Pulled down blinds.", "Showered.", "Dealt with mother.", "Dealt with father.", "Dealt with parents.", "Went out.", "Brushed teeth.", "Brushed hair.", "Made shake."], [
-"- [ ] Cleaned glasses #",
-"- [ ] Grabbed snackies #",
-"- [ ] Gave goobies food #",
-"- [ ] Refilled goobies water #",
-"- [ ] Refilled water bottles #",
-"- [ ] Cleaned litter box #",
-"- [ ] Refilled litter box #",
-"- [ ] Made food #\n- [ ] Cleaned after food #",
-"- [ ] Prepared food #\n- [ ] Made food #\n- [ ] Cleaned after food #",
-"- [ ] Turned on dishwasher #",
-"- [ ] Made tea #",
-"- [ ] Made coffee #",
-"- [ ] Vacuumed room #",
-"- [ ] Prepared medication #",
-"- [ ] Cut nails #",
-"- [ ] Changed trash bag #\n- [ ] Took out trash #",
-"- [ ] Washed floor #",
-"- [ ] Shaved #",
-"- [ ] Shaved body #",
-"- [ ] Put up blinds #",
-"- [ ] Pulled down blinds #",
-"- [ ] Prepared shower #\n- [ ] Showered #\n- [ ] Cleaned up after shower #",
-"- [ ] Dealt with mother #",
-"- [ ] Dealt with father #",
-"- [ ] Dealt with parents #",
-"- [ ] Dressed up #\n- [ ] Went outside #\n- [ ] Changed into pajamas #",
-"- [ ] Brushed teeth #",
-"- [ ] Brushed hair #",
-"- [ ] Made shake #"], true, "Choose done activities");
+let task = await tp.system.suggester(["Prepared food."], [
+"- [ ] Prepared food #\n- [ ] Made food #\n- [ ] Cleaned after food #"], true, "Choose done activities");
 -%>
 <% task %>
